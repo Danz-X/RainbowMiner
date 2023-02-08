@@ -106,4 +106,3 @@ sudo chmod 777 -R $HOME/.local/share/powershell
 
 if [ "$exitcode" == "10" ]; then
   ./start.sh
-fi
